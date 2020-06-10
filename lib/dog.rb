@@ -9,5 +9,6 @@ class Dog
   end
 end
 
+name = "Fido"
 
 
